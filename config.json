@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorsender",
+        "uuid": 5437296,
+        "checksum": "phhm7"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
